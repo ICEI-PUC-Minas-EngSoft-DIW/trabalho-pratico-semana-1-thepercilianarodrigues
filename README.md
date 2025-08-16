@@ -2,16 +2,18 @@
 
 ## Informações Gerais
 
-Nome:
-Matricula:
+Nome: Perciliana Rodrigues
+Matricula: 904963
 
 ## Tela de inspeção com navegador
 
-`<Coloque aqui o print da tela de inspeção do seu navegador>`
+`![alt text](<Captura de tela 2025-08-16 172331.png>)
 
 ## Tela de projeto no Replit
 
-`<Coloque aqui o print da tela do projeto no Replit>`
+![
+    ![alt text](<Captura de tela 2025-08-16 173954.png>)
+](<Captura de tela 2025-08-16 173650.png>)
 
 
 ## Orientações sobre Linguagem MarkDown
